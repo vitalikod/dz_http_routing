@@ -1,0 +1,23 @@
+.btn {
+  border: 2px solid black;
+  height: 30px;
+  width: 160px;
+  display: flex;
+  justify-content: center;
+  background-color: #81D0D9;
+  align-items: center;
+  border-radius: 18px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.btn:hover {
+  transition: 0.5s;
+  background-color: black;
+  color: white;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  background-color: tomato;
+}/*# sourceMappingURL=main.css.map */
